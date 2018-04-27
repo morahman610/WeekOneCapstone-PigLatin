@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\WeekOneCapstone\WeekOneCapstone\bin\Debug\WeekOneCapstone.exe.config
+C:\Users\Owner\source\repos\WeekOneCapstone\WeekOneCapstone\bin\Debug\WeekOneCapstone.exe
+C:\Users\Owner\source\repos\WeekOneCapstone\WeekOneCapstone\bin\Debug\WeekOneCapstone.pdb
+C:\Users\Owner\source\repos\WeekOneCapstone\WeekOneCapstone\obj\Debug\WeekOneCapstone.csprojResolveAssemblyReference.cache
+C:\Users\Owner\source\repos\WeekOneCapstone\WeekOneCapstone\obj\Debug\WeekOneCapstone.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\WeekOneCapstone\WeekOneCapstone\obj\Debug\WeekOneCapstone.exe
+C:\Users\Owner\source\repos\WeekOneCapstone\WeekOneCapstone\obj\Debug\WeekOneCapstone.pdb
